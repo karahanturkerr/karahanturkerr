@@ -1,4 +1,4 @@
-![MasterHead](https://i.hizliresim.com/52dpohs.png)
+![MasterHead](https://i.hizliresim.com/pf725j0.png)
 
 <h1 align="center">Hi, I'm Karahan Türker</h1>
 <h3 align="center">A Computer Engineer Student from Türkiye</h3>
