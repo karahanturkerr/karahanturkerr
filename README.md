@@ -1,7 +1,7 @@
 ![MasterHead](https://i.hizliresim.com/b4ohxtt.png)
 
 <h1 align="center">Hi, I'm Karahan Türker</h1>
-<h3 align="center">A Computer Engineer Student from Türkiye</h3>
+<h3 align="center">A Computer Engineer from Türkiye</h3>
 
 - 📫 How to reach me **turkerkarahan24@gmail.com**
 
