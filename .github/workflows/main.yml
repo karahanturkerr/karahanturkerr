@@ -1,0 +1,36 @@
+name: Generate Snake
+
+# Çalışma zamanı ayarları: Her 6 saatte bir çalışacak
+on:
+  schedule:
+    - cron: "0 */6 * * *" # her 6 saatte bir
+  workflow_dispatch: # Manuel tetikleme için ekledik
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Reponun checkout yapılması
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Snake görselini oluşturma
+      - name: Generate Snake animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: karahanturkerr
+          outputs: dist  # SVG ve GIF dosyaları bu klasöre kaydedilecek
+
+      # Durum kontrolü
+      - name: Check build status
+        run: git status
+
+      # Çıktıyı "output" branch'ine gönderme
+      - name: Push changes to output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
