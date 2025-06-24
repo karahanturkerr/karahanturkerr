@@ -19,7 +19,7 @@
 public class KarahanTurker : Developer
 {
     public string Location => "Türkiye 🇹🇷";
-    public string[] CurrentlyLearning => new[] { "ASP.NET Core", "Vue.js", "Clean Architecture" };
+    public string[] CurrentlyLearning => new[] { "ASP.NET Core", "New Technologies", "Clean Architecture" };
     public string[] Hobbies => new[] { "Coding", "Problem Solving", "Tech Blogs", "Gaming" };
     public string FavoriteLanguage => "C# ❤️";
     public bool IsAlwaysLearning => true;
@@ -67,26 +67,21 @@ public class KarahanTurker : Developer
 
 ## 🎮 Kod Yazmayan Halim
 
-- 🎯 **Oyun Oynamak** - Stratejik oyunlar beynimi açık tutuyor
+- 🎯 **Oyun Oynamak** - FPS ve stratejik oyunlar beynimi açık tutuyor
 - 📚 **Tech Blog Okumak** - Medium ve Dev.to'da takılırım
 - ☕ **Kahve Keşfi** - Kod yazarken kahve şart!
-- 🎵 **Müzik** - Lo-fi beats code ile uyum yapıyor
-- 🏀 **Basketbol** - Koddan ara verince sahada bulurum kendimi
+- 🎵 **Müzik** - Türkçe rap eşliğinde kod yazınca hız geliyor
+- ⚽ **Futbol** - Koddan ara verince sahada top koşturuyorum
 
 ## 💡 Şu Anda Neleri Öğreniyorum?
 
-- 🔥 **ASP.NET Core** - Web API'ler geliştiriyorum
-- 🎨 **Vue.js** - Reaktif frontend dünyasına dalıyorum  
-- 🏗️ **Clean Architecture** - Temiz kod prensiplerini öğreniyorum
-- ⚡ **SignalR** - Real-time uygulamalar yapıyorum
-
-## 🎯 2024 Hedeflerim
-
-- [ ] 50+ commit yapmak (şu anda: ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/karahanturkerr/karahanturkerr))
-- [ ] 3 büyük proje tamamlamak
-- [ ] Açık kaynak projelere katkıda bulunmak
-- [ ] Tech blog yazmaya başlamak
-- [ ] Bir hackathon'a katılmak
+🔥 .NET - En güncel .NET teknolojilerini keşfediyorum
+🏗️ Clean Architecture & CQRS - Modern katmanlı mimariler öğreniyorum
+⚡ Entity Framework Core - Daha verimli ORM yapıları araştırıyorum
+🚀 Minimal APIs - .NET 8'in yeni özelliklerini deniyorum
+🔄 MediatR Pattern - CQRS implementasyonu öğreniyorum
+📊 Dapper - Performanslı data access katmanları geliştiriyorum
+🐳 Docker - Containerization dünyasına adım atıyorum
 
 ## 🌐 Benimle İletişime Geçin
 
@@ -94,7 +89,7 @@ public class KarahanTurker : Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karahanturkerr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/karahanturkerr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karahanturkerr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turkerkarahan24@gmail.com)
 
 </div>
 
