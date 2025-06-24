@@ -92,14 +92,17 @@ public class KarahanTurker : Developer
 </div>
 
 ---
+<!-- Developer Quote Section -->
 <div align="center">
-💬 Developer Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <h3>💬 Developer Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <br />
+  <em>✨ "Her satır kod, bir hikayenin parçasıdır." ✨</em>
 </div>
-<div align="center">
-✨ "Her satır kod, bir hikayenin parçasıdır." ✨
-</div>
+
+<!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
 
