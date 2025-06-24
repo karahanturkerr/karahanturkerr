@@ -96,12 +96,13 @@ public class KarahanTurker : Developer
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-
 <div align="center">
-  
-### 💬 Rastgele Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+💬 Rastgele Dev Quote
+Show Image
+"Her satır kod, bir hikayenin parçasıdır."
+</div>
+<div align="center">
+✨ "Bugün yazdığın kod, yarının çözümü olabilir!" ✨
 </div>
 
 <div align="center">
