@@ -31,7 +31,7 @@ public class KarahanTurker : Developer
 }
 ```
 
-## 💻 Teknoloji Arsenalim
+## 💻 Tech Stack'im
 
 <div align="center">
 
@@ -60,7 +60,7 @@ public class KarahanTurker : Developer
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karahanturkerr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=karahanturkerr&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karahanturkerr&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="GitHub Activity Graph" />
 </div>
 
 ## 🎮 Kod Yazmayan Halim
