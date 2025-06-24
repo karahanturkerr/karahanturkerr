@@ -55,19 +55,17 @@ public class KarahanTurker : Developer
 </div>
 
 ## 📈 GitHub Maceraları
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karahanturkerr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karahanturkerr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karahanturkerr&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=karahanturkerr&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🎮 Kod Yazmayan Halim
 
-- 🎯 **Oyun Oynamak** - FPS ve stratejik oyunlar beynimi açık tutuyor
+- 🎯 **Oyun Oynamak** - FPS ve stratejik oyunlar heyecanımı açık tutuyor
 - 📚 **Tech Blog Okumak** - Medium ve Dev.to'da takılırım
 - ☕ **Kahve Keşfi** - Kod yazarken kahve şart!
 - 🎵 **Müzik** - Türkçe rap eşliğinde kod yazınca hız geliyor
