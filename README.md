@@ -99,14 +99,10 @@ public class KarahanTurker : Developer
 <div align="center">
 💬 Rastgele Dev Quote
 Show Image
-"Her satır kod, bir hikayenin parçasıdır."
-</div>
-<div align="center">
-✨ "Bugün yazdığın kod, yarının çözümü olabilir!" ✨
 </div>
 
 <div align="center">
   
-**✨ "Bugün yazdığın kod, yarının çözümü olabilir!" ✨**
+**✨ "Her satır kod, bir hikayenin parçasıdır." ✨**
 
 </div>
