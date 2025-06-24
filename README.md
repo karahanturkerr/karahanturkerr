@@ -30,4 +30,12 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karahanturkerr&" alt="karahanturkerr" /></p>
+---
+
+### 📊 GitHub Stats
+![Karahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karahanturkerr&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karahanturkerr&layout=compact&theme=radical)
+
+---
+
