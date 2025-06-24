@@ -92,10 +92,6 @@ public class KarahanTurker : Developer
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
 <div align="center">
 💬 Developer Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -103,3 +99,7 @@ public class KarahanTurker : Developer
 <div align="center">
 ✨ "Her satır kod, bir hikayenin parçasıdır." ✨
 </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
