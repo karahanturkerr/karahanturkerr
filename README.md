@@ -73,13 +73,13 @@ public class KarahanTurker : Developer
 
 ## 💡 Şu Anda Neleri Öğreniyorum?
 
-🔥 .NET - En güncel .NET teknolojilerini keşfediyorum
-🏗️ Clean Architecture & CQRS - Modern katmanlı mimariler öğreniyorum
-⚡ Entity Framework Core - Daha verimli ORM yapıları araştırıyorum
-🚀 Minimal APIs - .NET 8'in yeni özelliklerini deniyorum
-🔄 MediatR Pattern - CQRS implementasyonu öğreniyorum
-📊 Dapper - Performanslı data access katmanları geliştiriyorum
-🐳 Docker - Containerization dünyasına adım atıyorum
+- 🔥 .NET - En güncel .NET teknolojilerini keşfediyorum
+- 🏗️ Clean Architecture & CQRS - Modern katmanlı mimariler öğreniyorum
+- ⚡ Entity Framework Core - Daha verimli ORM yapıları araştırıyorum
+- 🚀 Minimal APIs - .NET 8'in yeni özelliklerini deniyorum
+- 🔄 MediatR Pattern - CQRS implementasyonu öğreniyorum
+- 📊 Dapper - Performanslı data access katmanları geliştiriyorum
+- 🐳 Docker - Containerization dünyasına adım atıyorum
 
 ## 🌐 Benimle İletişime Geçin
 
