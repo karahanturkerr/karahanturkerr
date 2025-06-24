@@ -9,22 +9,16 @@
   <img src="https://raw.githubusercontent.com/karahanturkerr/karahanturkerr/main/assets/coding-kid.gif" width="400" alt="Coding Child" />
 </p>
 
-> 👶 **Once a curious kid smashing keys on an old PC...**  
-> 💻 **Now engineering scalable systems and mentoring tomorrow’s coders.**  
-> ✨ Still in love with the magic of turning logic into solutions.
+### 💡 Hakkımda
+
+🧠 Yazılım geliştirmeyi özenle ve tutkuyla öğreniyorum
+🛠️ .NET teknolojileri ile web uygulamaları geliştiren, sürekli kendini geliştiren bir yazılımcıyım
+🌱 Deneyimli geliştiricilerden öğrenmeye açık, kodlama becerilerimi sürekli geliştiriyorum
+🎯 Temiz kod, etkili çözümler ve yaratıcı yaklaşımlarla büyüme hedefindeyim
 
 ---
 
-### 💡 About Me
-
-- 🧠 I lead software development with precision and heart  
-- 🛠️ Tech lover exploring elegant backends and sleek frontends  
-- 🌱 Passionate about mentoring the next generation of engineers  
-- 🎯 On a mission to inspire with code, clarity, and creativity  
-
----
-
-### 🛠️ Tech Stack
+### 🛠️ Teknolojiler
 
 **Backend:**  
 ![.NET](https://img.shields.io/badge/-.NET-blue?style=for-the-badge&logo=dotnet&logoColor=white)  
@@ -47,14 +41,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub İstatistik
 
 ![Karahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karahanturkerr&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karahanturkerr&layout=compact&theme=radical)
 
 ---
 
-### 📬 Connect with Me
+### 📬 İletişim
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karahanturkerr)  
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/karahanturkerr)
