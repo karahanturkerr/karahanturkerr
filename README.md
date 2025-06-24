@@ -98,9 +98,8 @@ public class KarahanTurker : Developer
 </div>
 <div align="center">
 💬 Developer Quote
-Show Image
-"Her satır kod, bir hikayenin parçasıdır."
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 <div align="center">
-✨ "Bugün yazdığın kod, yarının çözümü olabilir!" ✨
+✨ "Her satır kod, bir hikayenin parçasıdır." ✨
 </div>
